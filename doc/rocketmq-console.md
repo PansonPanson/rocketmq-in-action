@@ -10,7 +10,7 @@ git clone https://github.com/apache/rocketmq-externals.git
 
 即可进入控制台，如下：
 
-![]()
+![](https://github.com/PansonPanson/rocketmq-in-action/blob/main/doc/doc-pic/rocketmq-console.png?raw=true)
 
 
 
