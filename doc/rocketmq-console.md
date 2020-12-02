@@ -4,6 +4,11 @@
 ```shell
 git clone https://github.com/apache/rocketmq-externals.git
 ```
+修改 application.properties：
+```shell
+rocketmq.config.namesrvAddr=127.0.0.1:9876
+```
+
 使用命令行或者 Idea 启动即可，默认端口号是 8080。
 
 打开：http://127.0.0.1:8080/
